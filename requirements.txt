@@ -1,0 +1,7 @@
+# requirements.txt
+azure-cognitiveservices-speech
+google-generativeai
+python-dotenv
+pygame
+praw
+twitchio
