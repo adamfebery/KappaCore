@@ -115,22 +115,13 @@ Once fully developed, the project aims to run as an automated background process
 * [ ] Configure and automate OBS streaming setup.
 * [ ] Add error handling and monitoring.
 
-See the [open issues](https://github.com/YourUsername/[Project Name]/issues) for a full list of proposed features (and known issues).
-
 ## Contributing
 
 Contributions are welcome! Please open an issue first to discuss what you would like to change or add.
-*(Define contribution guidelines later if desired)*
 
 ## License
 
 Distributed under the MIT License. See `LICENSE` file for more information.
-
-## Contact
-
-Your Name / Handle - [@YourTwitter](https://twitter.com/YourTwitter) - your.email@example.com
-
-Project Link: [https://github.com/YourUsername/[Project Name]](https://github.com/YourUsername/[Project Name])
 
 ## Acknowledgements
 
