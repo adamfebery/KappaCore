@@ -48,8 +48,8 @@ This initial setup focuses only on testing the core Text-to-Speech functionality
 
 1.  **Clone the repo:**
     ```bash
-    git clone [https://github.com/YourUsername/](https://github.com/YourUsername/)[Project Name].git
-    cd [Project Name]
+    git clone [https://github.com/adamfebery/](https://github.com/adamfebery/)[KappaCore].git
+    cd [KappaCore]
     ```
 2.  **Create and activate a virtual environment (Recommended):**
     ```bash
